@@ -1,4 +1,14 @@
 [
-  { "id": "1", "platform": "github", "url": "https://github.com", "icon": "github" },
-    { "id": "2", "platform": "bilibili", "url": "https://bilibili.com", "icon": "bilibili" }
-    ]
+  {
+    "id": "1",
+    "platform": "github",
+    "url": "https://github.com",
+    "icon": "github"
+  },
+  {
+    "id": "2",
+    "platform": "bilibili",
+    "url": "https://bilibili.com",
+    "icon": "bilibili"
+  }
+]
