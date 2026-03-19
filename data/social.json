@@ -3,12 +3,12 @@
     "id": "1",
     "platform": "github",
     "url": "https://github.com",
-    "icon": "https://raw.githubusercontent.com/XiYue-FireFly/blog-data/main/assets/1773938208460_github_PNG20.png"
+    "icon": "https://raw.githubusercontent.com/XiYue-FireFly/blog-data/main/assets/1773938364944_OIP.webp"
   },
   {
     "id": "2",
     "platform": "bilibili",
     "url": "https://bilibili.com",
-    "icon": "https://raw.githubusercontent.com/XiYue-FireFly/blog-data/main/assets/1773938157187_OIP.webp"
+    "icon": "bilibili"
   }
 ]
