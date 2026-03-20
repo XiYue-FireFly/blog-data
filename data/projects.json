@@ -1,5 +1,13 @@
 [
   {
+    "name": "Second Test Project",
+    "description": "Another test project for verification.",
+    "url": "https://github.com",
+    "logo": "https://via.placeholder.com/150",
+    "tags": "React, Test",
+    "id": "1774001612119"
+  },
+  {
     "name": "Test Project",
     "description": "This is a test project.",
     "url": "https://github.com",
