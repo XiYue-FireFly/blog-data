@@ -4,5 +4,5 @@
   "motto": "Keep exploring.",
   "aboutBody": "本项目采用了 Vue 3 + GitHub CMS 的纯前端无服务器架构，完全重构并汲取了基于 Next.js 的优秀开源项目的设计精髓。",
   "aboutTech": "前端：Vue 3 + Vite + Tailwind CSS v4 + @vueuse/motion\n布局：采用全息散落毛玻璃 便当网格(Bento Grid)\n后端：GitHub Raw CDN (纯静态无服务器托管)\n数据链路：真实接入上传、发布等功能接口，独立自有后台！",
-  "bgMode": "snow"
+  "bgMode": "time"
 }
