@@ -1,10 +1,10 @@
 [
   {
-    "name": "Test Project",
-    "description": "This is a test project.",
-    "url": "https://github.com",
-    "logo": "https://via.placeholder.com/150",
-    "tags": "Vue, Test",
-    "id": "1774001350788"
+    "name": "gkd-PersonalUseIntegration",
+    "description": "参照github上的大佬们的gkd进行整合，集优，和对个人使用的应用进行加入",
+    "url": "https://github.com/XiYue-FireFly/gkd-PersonalUseIntegration",
+    "logo": "",
+    "tags": "TypeScript",
+    "id": "1775480735036"
   }
 ]
